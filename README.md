@@ -1,9 +1,9 @@
 # Kautilya_Semantic_Search_Task-1
 This module implements a semantic search engine over the Postman Twitter API collection using:
-Sentence Transformers for dense embeddings
-FAISS for fast similarity search
-Chunked document parsing from the Postman Twitter API GitHub repo
-Command-line querying with ranked JSON output
+Sentence Transformers for dense embeddings.
+FAISS for fast similarity search.
+Chunked document parsing from the Postman Twitter API GitHub repo.
+Command-line querying with ranked JSON output.
 
 The goal is to allow natural-language search queries such as:
 "How do I fetch tweets with expansions?"
